@@ -19,7 +19,7 @@ Follow these simple steps to add an animated favicon to your web page:
 
 #### 1. Download `gif-it.js`
 
-First, download the `gif-it.js` file from its raw source on GitHub. You'll typically find it in your project's `main` branch:
+First, download the `gif-it.js` file from its raw source on GitHub:
 
 <a href="https://raw.githubusercontent.com/Rad-nerd/gif-it.js/refs/heads/main/gif-it.js" download>Download gif-it.js</a>
 
