@@ -1,3 +1,3 @@
 # gif-it.js
 Put GIFs in Your Web-Pages Favicon
-![image](logo.png)
+<img src="logo.png" width="200px"/>
