@@ -32,15 +32,18 @@ Place the `<script>` tag for `gif-it.js` within the `<head>` or just before the 
 ```html
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Awesome Page</title>
-    <link id="faviconLink" rel="icon" href="data:," type="image/png">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>My Awesome Page</title>
+        <link id="faviconLink" rel="icon" href="data:," type="image/png">
     
-    <script src="gif-it.js"></script>
-    
+        <script src="gif-it.js"></script>
+        <script type="text/javascript">
+            FaviconAnimator.init('https://cdn.dribbble.com/userupload/19350005/file/original-3bbc2e65285f5179fb2e1900cd40b093.gif'); // your path/URL to your gif
+        </script>
     </head>
-<body>
+    <body>
+<!--but your own code here-->
     </body>
 </html>
