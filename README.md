@@ -21,13 +21,13 @@ Follow these simple steps to add an animated favicon to your web page:
 
 First, download the `gif-it.js` file from its raw source on GitHub. You'll typically find it in your project's `main` branch:
 
-<a href="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/gif-it.js" download>Download gif-it.js</a>
+<a href="https://raw.githubusercontent.com/Rad-nerd/gif-it.js/refs/heads/main/gif-it.js" download>Download gif-it.js</a>
 
-Save this file into your web project directory (e.g., in a `js/` folder, or directly in your root).
+Save this file into your web project directory.
 
 #### 2. Link `gif-it.js` in Your HTML
 
-Place the `<script>` tag for `gif-it.js` within the `<head>` or just before the closing `</body>` tag of your `index.html` (or relevant HTML file). If you plan to host it directly from GitHub Raw, use the direct link:
+Place the `<script>` tag for `gif-it.js` within the `<head>` or just before the closing `</body>` tag of your `index.html` (or relevant HTML file). example html:
 
 ```html
 <!DOCTYPE html>
@@ -38,7 +38,7 @@ Place the `<script>` tag for `gif-it.js` within the `<head>` or just before the 
     <title>My Awesome Page</title>
     <link id="faviconLink" rel="icon" href="data:," type="image/png">
     
-    <script src="[https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/gif-it.js](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/gif-it.js)"></script>
+    <script src="gif-it.js"></script>
     
     </head>
 <body>
