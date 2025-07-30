@@ -1,5 +1,3 @@
-# gif-it.js
-
 <img src="logo.png" width="300px" alt="gif-it.js Logo - Stylized GIF icon with motion blur and text 'gif-it.js'"/>
 
 ## Put GIFs in Your Web-Pages Favicon
