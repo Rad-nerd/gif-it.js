@@ -40,7 +40,7 @@ Place the `<script>` tag for `gif-it.js` within the `<head>` or just before the 
     
         <script src="gif-it.js"></script>
         <script type="text/javascript">
-            FaviconAnimator.init('https://cdn.dribbble.com/userupload/19350005/file/original-3bbc2e65285f5179fb2e1900cd40b093.gif'); // your path/URL to your gif
+            FaviconAnimator.init('favicon.gif'); // your path/URL to your gif
         </script>
     </head>
     <body>
