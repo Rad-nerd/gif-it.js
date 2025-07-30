@@ -1,4 +1,7 @@
 /*
+gif-it.js powered by SuperGif
+*/
+/*
 	SuperGif
 
 	Example usage:
